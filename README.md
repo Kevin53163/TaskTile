@@ -27,7 +27,7 @@ Requires macOS 14.0 and above.
 
 
 ## Installation
-Download the ```.dmg``` file from the [Releases page](https://github.com/wolteh/TaskTile/releases/latest), and simply drag & drop Tasktile into your Applications folder.
+Download the ```.app``` file from the [Releases page](https://github.com/wolteh/TaskTile/releases/latest), and simply drag & drop Tasktile into your Applications folder.
 
 <p align="center">
 <img width="390" alt="image" src="https://github.com/user-attachments/assets/52938e77-a148-4d55-bd8d-d23a446ebaac" />
